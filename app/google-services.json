@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219290303385",
+    "firebase_url": "https://bringwithyou-447b1.firebaseio.com",
+    "project_id": "bringwithyou-447b1",
+    "storage_bucket": "bringwithyou-447b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219290303385:android:a60c1937bba189a2353108",
+        "android_client_info": {
+          "package_name": "com.SWEProject.bringwithyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219290303385-90jf2ddtehbb21ortcol3uupfb5qap4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPJrp66Y2yYAs1hv6XquqdEbO5v3LVzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219290303385-90jf2ddtehbb21ortcol3uupfb5qap4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
